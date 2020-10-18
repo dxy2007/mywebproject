@@ -35,16 +35,16 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="JavaScript 调试.vanvas.html">
-    <configuration name="domo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myweb/domo.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript 调试.canvas.html">
+    <configuration name="canvas.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myweb/canvas.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="vanvas.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myweb/vanvas.html" useBuiltInWebServerPort="true">
+    <configuration name="domo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myweb/domo.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript 调试.vanvas.html" />
+        <item itemvalue="JavaScript 调试.canvas.html" />
         <item itemvalue="JavaScript 调试.domo.html" />
       </list>
     </recent_temporary>
