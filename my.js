@@ -6,7 +6,7 @@ var pen = canvas.getContext('2d');
 
 // add path
 
-pen.rect(0,0,1000,100)
+pen.rect(0,0,1000,1000)
 
 // filling
 pen.font = '30px Arial';

@@ -22,7 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e66e90a-52c4-47e7-95b4-000e10c0efa1" name="默认的" comment="更改文件名" />
+    <list default="true" id="9e66e90a-52c4-47e7-95b4-000e10c0efa1" name="默认的" comment="更改文件名">
+      <change beforePath="$PROJECT_DIR$/canvas.html" beforeDir="false" afterPath="$PROJECT_DIR$/canvas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my.js" beforeDir="false" afterPath="$PROJECT_DIR$/my.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +84,7 @@
       <updated>1602072096143</updated>
       <workItem from="1602072097253" duration="439000" />
       <workItem from="1603027408985" duration="2548000" />
+      <workItem from="1603442878131" duration="291000" />
     </task>
     <task id="LOCAL-00001" summary="更改文件名">
       <created>1603029944042</created>
@@ -89,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603029944042</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="0">
+      <created>1603443011447</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603443011447</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,15 +111,29 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更改文件名" />
-    <option name="LAST_COMMIT_MESSAGE" value="更改文件名" />
+    <MESSAGE value="0" />
+    <option name="LAST_COMMIT_MESSAGE" value="0" />
   </component>
   <component name="WindowStateProjectService">
     <state x="748" y="361" key="FileChooserDialogImpl" timestamp="1603029821877">
